@@ -1,0 +1,26 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "a express demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jq002/expressDemo.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "jq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jq002/expressDemo/issues"
+  },
+  "homepage": "https://github.com/jq002/expressDemo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
